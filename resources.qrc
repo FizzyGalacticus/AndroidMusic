@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fonts/josefin/JosefinSans-Bold.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-BoldItalic.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-Italic.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-Light.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-LightItalic.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-Regular.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-SemiBold.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-SemiBoldItalic.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-Thin.ttf</file>
+        <file>resources/fonts/josefin/JosefinSans-ThinItalic.ttf</file>
+    </qresource>
+</RCC>
